@@ -1,6 +1,9 @@
 # 4D-research
 singlepore 4D research, for fun only
 
+[check the singaporepools result](http://www.singaporepools.com.sg/ch/4d/Pages/Results.aspx?)
+
+
 <table class="table table-bordered table-striped table-condensed">
 <tr>
 <td> date </td>
